@@ -1,4 +1,3 @@
-#Melody
--------
+## #Melody
 
-A Custom Spotify Clone
+A Custom Spotify Clone!
